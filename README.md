@@ -15,12 +15,10 @@
   </a>
 </p>  
 
+
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
 <a href="https://t.me/yangmutebabi"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor."></a>
-
-<br>
-<table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td> <h2><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨</a></tbody></tr></td></h2>
 
 
     
@@ -44,3 +42,7 @@
 <br>
 <h3 align="center">Klik Gambar di Bawah ini untuk Deploy di Heroku</h3>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/candragus/CokUBot"><img src="https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg" target="_blank"</a></p>
+
+<br>
+<br>
+<table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td> <h2><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨</a></tbody></tr></td></h2>

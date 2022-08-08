@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di [CokUBot-STRING](https://replit.com/@zulfhanmt/stringen#main.py)",
+      "description": "Dapatkan String Session di https://replit.com/@zulfhanmt/stringen#main.py",
       "required": true
     },
     "HEROKU_APP_NAME": {

@@ -18,9 +18,8 @@
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
-height:30px;"></td><td><label for="agb2">I like this Repo ❤️<br>
-<input type="checkbox" name="agb2" id="agb2" value="1" style="width:30px; height:30px;">
-    
+
+<input type="checkbox" name="agb2" id="agb2" value="1" style="width:30px; height:30px;"></td><td><label for="agb2">I like this Repo ❤️<br>
 -blue?style=flat&logo=Paypal" width="300" height="38.60" target="_blank"/></a>
     
 ## Bagaimana Cara Deploy?

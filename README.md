@@ -19,8 +19,9 @@
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
-
-    ("🔱 𝐎𝐖𝐍𝐄𝐑", url=f'https://t.me/trialtelegram/url')
+<br><a href="gold?b=33"><button class="bbut">PayPal</button></a><br>
+    
+-blue?style=flat&logo=Paypal" width="300" height="38.60" target="_blank"/></a>
     
 ## Bagaimana Cara Deploy?
 
@@ -34,7 +35,7 @@
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@zulfhanmt/stringen#main.py)
 ##
 <h3 align="center">Klik Gambar di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ABKeceX/Cok-UserBot"><img src="https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg" alt="Deploy to Heroku Cok" target="_blank"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/candragus/CokUBot"><img src="https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg" alt="Deploy to Heroku Cok" target="_blank"/></a></p>
 
 <br>
 </p>

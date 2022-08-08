@@ -23,7 +23,7 @@ from telethon.tl.functions.contacts import UnblockRequest
 from CokUBot import BOT_USERNAME
 from CokUBot import CMD_HANDLER as cmd
 from CokUBot import bot
-from CokUBot.utils import edit_or_reply, ram_cmd
+from CokUBot.utils import edit_or_reply
 
 
 @cok_cmd(pattern="rhelp")

@@ -22,7 +22,7 @@
 
 <table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td>
 <input type="checkbox" name="agb2" id="agb2" value="1" style="width:30px; height:30px;"></td><td><label for="agb2"><a href="https://github.com/candragus/CokUBot/stargazers">I like this Repo ❤️<br></a></label>
-</td></tr></tbody></table><br>
+</td></tr></tbody></table><br></input>
     
 ## Bagaimana Cara Deploy?
 

@@ -17,7 +17,7 @@
 
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
-<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
+<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor."></a>
 
 
 <input type="checkbox" name="agb2" id="agb2" value="1" style="width:30px; height:30px;"></td><td><label for="agb2">I like this Repo ❤️<br>

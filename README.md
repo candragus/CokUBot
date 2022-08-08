@@ -26,13 +26,13 @@
 ## Bagaimana Cara Deploy?
 
 <details>
-    *<summary><b> **VIDEO TUTORIAL DEPLOY!** 🔧 </summary></b>
+    *<summary><b>🔧 VIDEO TUTORIAL DEPLOY! 🔧</summary></b>
 <br>
+
 [<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/yangmutebabi)
-
 </details>
-<details>
 
+<details>
 <summary><b>🔗 AMBIL STRING DI BAWAH INI:</summary></b>
 <br>
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@zulfhanmt/stringen#main.py)

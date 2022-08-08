@@ -34,7 +34,7 @@
 <summary><b>🔗 AMBIL STRING DI BAWAH INI:</summary></b>
 <br>
 
-[![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@zulfhanmt/stringen#main.py)
+[![CokUBot-STRING](https://replit.com/badge/github/@candragus/CokUBot)](https://replit.com/@zulfhanmt/stringen#main.py)
 
 </details>
 <br>

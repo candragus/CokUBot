@@ -26,7 +26,7 @@
 ## Bagaimana Cara Deploy?
 
 <details>
-    *<summary><b>🔧 VIDEO TUTORIAL DEPLOY! 🔧</summary></b>
+    <summary><b>🔧 VIDEO TUTORIAL DEPLOY! 🔧</summary></b>
 <br>
 
 [<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/yangmutebabi)
@@ -43,4 +43,4 @@
 
 
 <h3 align="center">Klik Gambar di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/candragus/CokUBot"><img src="https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg"> target="_blank"/></a></p>
+<p align="center"><a target="_blank" href="https://heroku.com/deploy?template=https://github.com/candragus/CokUBot"><img src="https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg"> /></a></p>

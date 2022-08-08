@@ -3,7 +3,7 @@
 
 * **[『A̶̢͛̐͒͛̐̒̐̌ ̸̝͎̦́̔͠Β̸͌͂̑̆𖣘』](https://t.me/yangmutebabi)** 
 <p align="center"><a href="https://t.me/yangmutebabi"><img src="https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg"</a></p>
-<p align="center"><a href="https://www.gambaranimasi.org/cat-bintang-280.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></><a href="https://www.gambaranimasi.org/cat-bintang-280.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a></p>
+<p align="right"><a href="https://www.gambaranimasi.org/cat-bintang-280.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></><a href="https://www.gambaranimasi.org/cat-bintang-280.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a></p>
  
 <p align="center">
  <a href="https://github.com/candragus/CokUBot/fork">
@@ -44,4 +44,4 @@
 
 <br>
 <br>
-<table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td><p align="center"><b><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨</a></tbody></tr></td></b></p>
+<p align="center"><table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td><b><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨</a></tbody></tr></td></b></p>

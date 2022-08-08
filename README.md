@@ -19,7 +19,7 @@
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor."></a>
 
-<input type="checkbox"<a href="https://github.com/candragus/CokUBot/stargazers">I like this Repo ❤️<br></a>
+<table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td><a href="https://github.com/candragus/CokUBot/stargazers">I like this Repo ❤️<br></a></tbody></tr></td>
     
 ## Bagaimana Cara Deploy?
 

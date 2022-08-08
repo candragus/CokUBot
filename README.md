@@ -19,7 +19,7 @@
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor."></a>
 
-<table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td><input type="checkbox" name="agb2" id="agb2" value="1" style="width:30px; height:30px;"></td><td><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨<br></a></tbody></tr></td>
+<table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td><input type="checkbox" name="agb2" id="agb2" value="1" style="width:30px; height:30px;"><td><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨<br></a></tbody></tr></td>
     
 ## Bagaimana Cara Deploy?
 

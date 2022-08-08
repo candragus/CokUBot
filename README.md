@@ -20,13 +20,13 @@
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 
-    
+    ("🔱 𝐎𝐖𝐍𝐄𝐑", url=f'https://t.me/trialtelegram/url')
     
 ## Bagaimana Cara Deploy?
 
 
 * **VIDEO TUTORIAL DEPLOY!** 🔧
-[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/UserbotChannel/36)
+[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/yangmutebabi)
 
 ### AMBIL STRING DI BAWAH INI:
 

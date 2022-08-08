@@ -47,4 +47,4 @@
 <p align="center"><tbody><tr><td><b><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨</a></tbody></tr></td></b></p>
 
 
-<table style="background-color:rgba(255, 255, 255, 0.03);"><a href="https://t.me/yangmutebabi">AABC</a>
+<table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td><a href="https://t.me/yangmutebabi">AABC</a></tbody></tr></td>

@@ -44,4 +44,4 @@
 
 <br>
 <br>
-<table align="center", table style="background-color:rgba(255, 255, 255, 0.03);"><td><b><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨</a></td></b></table>
+<table align="center", table style="background-color:rgba(255, 255, 255, 0.03);"><td><b><h2><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨</a></td></b></h2></table>

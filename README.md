@@ -11,13 +11,13 @@
     
   </a>
   <a href="https://github.com/candragus/CokUBot">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+    <img src="https://img.shields.io/github/stars/candragus/CokUBot?style=social">
   </a>
 </p>  
 
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
-<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor."></a>
+<a href="https://t.me/yangmutebabi"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor."></a>
 
 <table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td> <h2><a href="https://github.com/candragus/CokUBot/stargazers">Give Star To Repo✨</a></tbody></tr></td></h2>
 

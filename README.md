@@ -31,10 +31,10 @@
 
 <details>
 
-<summary><b>🔗 AMBIL STRING DI BAWAH INI:
+<summary><b>🔗 AMBIL STRING DI BAWAH INI:</summary></b>
 
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@zulfhanmt/stringen#main.py)
-</summary></b>
+
 </details>
 
 

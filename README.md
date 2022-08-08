@@ -19,7 +19,7 @@
 
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor."></a>
 
-<label><br><a href="https://github.com/candragus/CokUBot/stargazers">I like this Repo ❤️<br></a></label>
+<tabel><br><a href="https://github.com/candragus/CokUBot/stargazers">I like this Repo ❤️<br></a></tabel>
     
 ## Bagaimana Cara Deploy?
 

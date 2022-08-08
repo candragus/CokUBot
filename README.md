@@ -22,7 +22,8 @@
 
 <table style="background-color:rgba(255, 255, 255, 0.03);"><tbody><tr><td>
 <input type="checkbox" name="agb2" id="agb2" value="1" style="width:30px; height:30px;"></td><td><label for="agb2">I like this Repo ❤️<br>
--blue?style=flat&logo=Paypal" width="300" height="38.60" target="_blank"/></a>
+-blue?style=flat&logo=Paypal" width="300" height="38.60" target="_blank"/></a></label>
+</td></tr></tbody></table>
     
 ## Bagaimana Cara Deploy?
 

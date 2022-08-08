@@ -20,20 +20,20 @@ from telethon.errors.rpcerrorlist import BotInlineDisabledError as noinline
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl.functions.contacts import UnblockRequest
 
-from rams import BOT_USERNAME
-from rams import CMD_HANDLER as cmd
-from rams import bot
-from rams.utils import edit_or_reply, ram_cmd
+from CokUBot import BOT_USERNAME
+from CokUBot import CMD_HANDLER as cmd
+from CokUBot import bot
+from CokUBot.utils import edit_or_reply, ram_cmd
 
 
-@ram_cmd(pattern="rhelp")
+@cok_cmd(pattern="rhelp")
 async def _(event):
     if event.fwd_from:
         return
     if BOT_USERNAME is not None:
         chat = "@Botfather"
         try:
-            results = await event.client.inline_query(BOT_USERNAME, "@RamUserbot")
+            results = await event.client.inline_query(BOT_USERNAME, "@yangmutebabi")
             await results[0].click(
                 event.chat_id, reply_to=event.reply_to_msg_id, hide_via=True
             )

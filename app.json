@@ -1,7 +1,7 @@
 {
   "name": "CokUBot",
-  "description": "[CokUBot] KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
+  "description": "[CokUBot] DIGUNAKAN UNTUK HAVEFUN SEMATA!!..",
+  "logo": "https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg",
   "keywords": [
     "telegram",
     "rams",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/candragus/CokUBot",
+  "repository": "https:/t.me/yangmutebabi",
   "telegram": "https://t.me/yangmutebabi",
   "success_url": "https://t.me/yangmutebabi",
   "stack": "container",
@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » @ramsupportt » Lalu ketik #string",
+      "description": "Dapatkan String Session di [CokUBot-STRING](https://replit.com/badge/github/@candragus/CokUBot)](https://replit.com/@zulfhanmt/stringen#main.py)",
       "required": true
     },
     "HEROKU_APP_NAME": {

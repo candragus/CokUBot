@@ -29,10 +29,16 @@
 * **VIDEO TUTORIAL DEPLOY!** 🔧
 [<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/yangmutebabi)
 
+<details>
 ### AMBIL STRING DI BAWAH INI:
 
 ##
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@zulfhanmt/stringen#main.py)
 ##
+
+</details>
+
+
+
 <h3 align="center">Klik Gambar di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/candragus/CokUBot"><img src="https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg" target="_blank"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/candragus/CokUBot"><img src="https://telegra.ph/file/1cdbbd432ccb206eb4c9b.jpg"> target="_blank"/></a></p>

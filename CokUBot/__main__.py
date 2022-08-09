@@ -35,8 +35,8 @@ for module_name in ALL_MODULES:
     imported_module = import_module("rams,CokUBot.modules." + module_name)
 
 LOGS.info(f"Total Clients = {total} User")
-LOGS.info(f"Jika {user.first_name} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/ramsupportt")
-LOGS.info(f"✨ RAM - UBOT ✨ v {BOT_VER} [DAH AKTIF NGENTOT!!!]")
+LOGS.info(f"Jika {user.first_name} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/zulfhanmt")
+LOGS.info(f"乂𝗖𝗼𝗸-𝗨𝘀𝗲𝗿𝗯𝗼𝘁乂 🔥 V7.0 [AKTIF COKKK😎!!!!]")
 
 
 LOOP.run_until_complete(ram_ubot_on())

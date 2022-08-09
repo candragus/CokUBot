@@ -4,10 +4,10 @@ from importlib import import_module
 
 from pytgcalls import idle
 
-from rams import BOT_VER, ramblacklist
-from rams import DEVS, LOGS, LOOP, bot, call_py
-from rams.clients import ram_ubot_on, ramulti
-from rams.modules import ALL_MODULES
+from CokUBot import BOT_VER, blacklist
+from CokUBot import DEVS, LOGS, LOOP, bot, call_py
+from CokUBot.clients import ram_ubot_on, ramulti
+from CokUBot.modules import ALL_MODULES
 
 try:
     client = ramulti()
@@ -15,16 +15,16 @@ try:
     bot.start()
     call_py.start()
     user = bot.get_me()
-    ramblacklist = requests.get(
+    blacklist = requests.get(
         "https://raw.githubusercontent.com/ramadhani892/Ramblack/master/ramblacklist.json"
     ).json()
-    if user.id in ramblacklist:
+    if user.id in blacklist:
         LOGS.warning(
-            "rams TIDAK DAPAT BERJALAN, KARNA LO KONTOL MAKE SEMEMA MENA, BOT LO DI MATIIN HEHEH, LAPORKAN KE @zulfhanmt"        )
+            "TIDAK DAPAT BERJALAN, KARNA LO KONTOL MAKE SEMEMA MENA, BOT LO DI MATIIN HEHEH, LAPORKAN KE @zulfhanmt"        )
         sys.exit(1)
     if 1826643972 not in DEVS:
         LOGS.warning(
-            f"EOL\n✨ RAM - UBOT ✨ versi {BOT_VER},"
+            f"乂𝗖𝗼𝗸-𝗨𝘀𝗲𝗿𝗯𝗼𝘁乂 🔥 V7.0 [AKTIF COKKK😎!!!!"
         )
         sys.exit(1)
 except Exception as e:
@@ -32,7 +32,7 @@ except Exception as e:
     sys.exit(1)
 
 for module_name in ALL_MODULES:
-    imported_module = import_module("rams.modules." + module_name)
+    imported_module = import_module("rams,CokUBot.modules." + module_name)
 
 LOGS.info(f"Total Clients = {total} User")
 LOGS.info(f"Jika {user.first_name} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/ramsupportt")

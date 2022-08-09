@@ -4,7 +4,7 @@ from importlib import import_module
 
 from pytgcalls import idle
 
-from CokUBot import BOT_VER, blacklist
+from CokUBot import blacklist
 from CokUBot import DEVS, LOGS, LOOP, bot, call_py
 from CokUBot.clients import ram_ubot_on, ramulti
 from CokUBot.modules import ALL_MODULES

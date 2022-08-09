@@ -396,7 +396,7 @@ except Exception as e:
 
 if STRING_2:
     session2 = StringSession(str(STRING_2))
-    COK2 = TelegramClient(
+    RAM2 = TelegramClient(
         session=session2,
         api_id=API_KEY,
         api_hash=API_HASH,
@@ -404,15 +404,15 @@ if STRING_2:
         auto_reconnect=True,
         connection_retries=None,
     )
-    call_py2 = PyTgCalls(COK2)
+    call_py2 = PyTgCalls(RAM2)
 else:
     call_py2 = None
-    COK2 = None
+    RAM2 = None
 
 
 if STRING_3:
     session3 = StringSession(str(STRING_3))
-    COK3 = TelegramClient(
+    RAM3 = TelegramClient(
         session=session3,
         api_id=API_KEY,
         api_hash=API_HASH,
@@ -420,15 +420,15 @@ if STRING_3:
         auto_reconnect=True,
         connection_retries=None,
     )
-    call_py3 = PyTgCalls(COK3)
+    call_py3 = PyTgCalls(RAM3)
 else:
     call_py3 = None
-    COK3 = None
+    RAM3 = None
 
 
 if STRING_4:
     session4 = StringSession(str(STRING_4))
-    COK4 = TelegramClient(
+    RAM4 = TelegramClient(
         session=session4,
         api_id=API_KEY,
         api_hash=API_HASH,
@@ -436,15 +436,15 @@ if STRING_4:
         auto_reconnect=True,
         connection_retries=None,
     )
-    call_py4 = PyTgCalls(COK4)
+    call_py4 = PyTgCalls(RAM4)
 else:
     call_py4 = None
-    COK4 = None
+    RAM4 = None
 
 
 if STRING_5:
     session5 = StringSession(str(STRING_5))
-    COK5 = TelegramClient(
+    RAM5 = TelegramClient(
         session=session5,
         api_id=API_KEY,
         api_hash=API_HASH,
@@ -452,10 +452,10 @@ if STRING_5:
         auto_reconnect=True,
         connection_retries=None,
     )
-    call_py5 = PyTgCalls(COK5)
+    call_py5 = PyTgCalls(RAM5)
 else:
     call_py5 = None
-    COK5 = None
+    RAM5 = None
 
 if BOT_TOKEN is not None:
     tgbot = TelegramClient(
